@@ -3,6 +3,7 @@ https://youtu.be/fdl7eezX0tU
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: 
+https://github.com/dipto039/CSE713/blob/main/Submission3/chapter-19_Concept_Map.pdf
 
 Native/original format: 
 https://drive.google.com/file/d/1N14b2oqZyVALQjV0b8CRX2vLl7nkr6yu/view?usp=sharing
