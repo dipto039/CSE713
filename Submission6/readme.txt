@@ -9,15 +9,6 @@ https://docs.google.com/presentation/d/14e25YNQD1WDHFX9FDee9sclk-AmwaFFPjpqtHkwx
 
 Project title: Interpretable Transformer-Based Diagnosis of Lung and Colon Cancer Using Histopathological Images
 
-Paper submission date (to workshop/conference): 15 May, 2023
-
-Paper submission ID: Haven't received yet
-
-Conference Name: 2023 IEEE Region 10 Conference (TENCON)
-
-Conference URL: tencon2023.org
-
-
 Group Number:
 5
 
