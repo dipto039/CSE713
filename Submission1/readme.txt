@@ -9,6 +9,7 @@ https://docs.google.com/presentation/d/1sKa4PQkBxZY2fkvOkdVzkgH9dCAObLvRAGCoRfew
 
 Project title: Interpretable Transformer-Based Diagnosis of Lung and Colon Cancer Using Histopathological Images
 
+
 Group Number:
 5
 
